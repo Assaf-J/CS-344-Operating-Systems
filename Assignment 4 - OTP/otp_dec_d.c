@@ -1,7 +1,4 @@
 /******************************************************************************************
-*Name: Jennifer Assaf
-*Date:11/30/2018
-*
 *Desrciption: This is the daemon file meant to be run in the background. It allows users to
 *to decode an encrypted file using a key. The user must pass in a ciphertext, key, and correct
 *port number
