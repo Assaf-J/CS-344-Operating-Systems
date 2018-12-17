@@ -1,7 +1,4 @@
 /******************************************************************************************
-*Name: Jennifer Assaf
-*Date:11/30/2018
-*
 *Desrciption: This is the client file meant to be run with otp_dec_d. It passes a key and 
 *encoded file to otp_dec_d. It then receives and prints the decoded file.
 *******************************************************************************************/
