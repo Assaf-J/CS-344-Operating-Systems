@@ -1,6 +1,4 @@
 /*
-Name: Jennifer Assaf
-Date:11/14/2018
 Description: This program is a C shell script. It has three built in commands,
 exit, status, and cd. It also allows for non built in functions/
 */
