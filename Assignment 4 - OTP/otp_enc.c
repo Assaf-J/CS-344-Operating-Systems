@@ -1,7 +1,4 @@
 /******************************************************************************************
-*Name: Jennifer Assaf
-*Date:11/30/2018
-*
 *Desrciption: This is the client file meant to be run with otp_enc_d. It passes a key and
 *plaintext file to otp_enc_d. It then receives and prints the encoded file.
 *******************************************************************************************/
